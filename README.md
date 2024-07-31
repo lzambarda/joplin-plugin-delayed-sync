@@ -1,4 +1,4 @@
-# Joplin Delayed Sync
+# Joplin Plugin Delayed Sync
 
 This simple plugin introduces the ability to synchronize after a note has been modified, with a delay. It is intended for people who quickly jot something down on Joplin and then go about their day forgetting to synchronize! :P
 
